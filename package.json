@@ -1,0 +1,24 @@
+{
+  "name": "tailwindcssByScrimba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohsenJafari8/tailwindcssByScrimba.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohsenJafari8/tailwindcssByScrimba/issues"
+  },
+  "homepage": "https://github.com/mohsenJafari8/tailwindcssByScrimba#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "tailwindcss": "^1.1.4"
+  }
+}
